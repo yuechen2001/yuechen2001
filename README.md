@@ -3,9 +3,9 @@
 #### 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/zhu-yuechen-1a603435/
 
 ## About
-- I'm a Year 1 Computer Science student at the National University of Singapore
+- I'm a Year 2 Computer Science student at the National University of Singapore
 - Interests: Software Development, Blockchain, AI and Deep Learning
-- I enjoy going to the gym, good food and playing musical instruments in my free time! 😄
+- I enjoy going to the gym, taking nice photos and playing musical instruments in my free time! 😄
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
