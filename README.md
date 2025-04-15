@@ -7,13 +7,6 @@
 - Interests: Software Development, Blockchain, AI and Deep Learning
 - I enjoy going to the gym, taking nice photos and playing musical instruments in my free time! 😄
 
-### Programming Languages
-C, Dart, Java, Javascript, Python, Solidity, SQL, Typescript
-### Frameworks and Database Tools
-Cloud Firestore, Flutter, Hasura, JavaFX, Junit, MongoDB, NextJS, pgAdmin4, PostgreSQL, Prisma, ReactJS
-### Data Science Libraries and Programming Tools
-Git, GitHub, Gradle, matplotlib, NumPy, Pandas, PyTorch, Vim
-
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuechen2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
